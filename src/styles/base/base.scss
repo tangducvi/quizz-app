@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.disabled {
+    background-color: #fff;
+    pointer-events: none;
+    opacity: 0.3;
+}
+
+.click-to-play {
+    background-color: transparent;
+    padding: 10px 25px;
+    margin-top: 30px;
+    border: 1px solid #f25287;
+    color: #f25287;
+    transition: 0.3s linear all;
+}
+
+.click-to-play:hover {
+    background-color: #f25287;
+    color: #fff;
+}

@@ -1,0 +1,111 @@
+.questions {
+    background-color: $off-white;
+    border-left: 5px solid $blue;
+    width: 80%;
+    margin: $lg auto 0 auto;
+    padding: $sm $md;
+
+    h2 {
+        text-align: center;
+        font-weight: lighter;
+    }
+
+    .lifeline-container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .lifeline {
+        position: relative;
+        top: -3px;
+    }
+
+    h5 {
+        font-size: 1.2rem;
+        margin-bottom: $lg;
+        line-height: 1.5;
+        text-align: center;
+    }
+
+    .options-container {
+        display: inline-block;
+        width: 50%;
+        
+    }
+
+    .option {
+        background-color: $blue;
+        color: #fff;
+        border-radius: $border-radius;
+        text-align: center;
+        padding: $normal 0;
+        cursor: pointer;
+        margin: $md auto;
+        transition: 0.3s linear all;
+        width: 90%;
+    }
+
+    .option:hover {
+        background-color: #ff8882;
+    }
+
+    .right {
+        display: flex;
+        align-items: center;
+    }
+
+    .lifeline-icon {
+        color: $green;
+        cursor: pointer;
+    }
+
+    
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 auto $sm auto;
+    padding: $md;
+    width: 80%;
+}
+
+.button-container button {
+    border: none;
+    color: $off-white;
+    cursor: pointer;
+    margin-right: $md;
+    padding: $xs $sm;
+}
+
+.button-container button:first-child {
+    background-color: #926e6f;
+    transition: 0.3s linear all;
+}
+.button-container button:first-child:hover {
+    background-color: #ce1f6a;
+}
+
+.button-container button:nth-child(2) {
+    background-color: #5aa897;
+    transition: 0.3s linear all;
+}
+.button-container button:nth-child(2):hover {
+    background-color: #45526c;
+}
+
+.button-container button:nth-child(3) {
+    background-color: #810034;
+    transition: 0.3s linear all;
+}
+.button-container button:nth-child(3):hover {
+    background-color: #ff005c;
+}
+
+.toast-valid-correct {
+    background-color: $correct;
+}
+
+.toast-valid-wrong {
+    background-color: $wrong;
+}

@@ -1,0 +1,136 @@
+[
+    {
+        "question": "Ngày Quốc Khánh đầu tiên của Việt Nam là ngày bao nhiêu?",
+        "optionA": "02/08/1945",
+        "optionB": "02/09/1945",
+        "optionC": "02/10/1945",
+        "optionD": "02/11/1945",
+        "answer": "02/09/1945"
+    },
+
+    {
+        "question": "Ai là quán quân Rap Việt mùa đầu tiên?",
+        "optionA": "G Ducky",
+        "optionB": "Dế Choắt",
+        "optionC": "Ricky Star",
+        "optionD": "Lăng LD",
+        "answer": "Dế Choắt"
+    },
+
+    {
+        "question": "Bạn nhớ nyc không?",
+        "optionA": "Có",
+        "optionB": "Không",
+        "optionC": "Hơi hơi",
+        "optionD": "Còn yêu nhiều lắm",
+        "answer": "Hơi hơi"
+    },
+
+    {
+        "question": "Đâu là 1 loại mũ?",
+        "optionA": "Lưỡi niềm",
+        "optionB": "Lưỡi chai",
+        "optionC": "Lưỡi bò",
+        "optionD": "Lè lưỡi",
+        "answer": "Lưỡi chai"
+    },
+
+    {
+        "question": "Có làm thì mới có... Đâu là từ còn thiếu trong câu trên?",
+        "optionA": "Ăn",
+        "optionB": "Làm",
+        "optionC": "Tiền",
+        "optionD": "Nụng",
+        "answer": "Ăn"
+    },
+
+    {
+        "question": "Jack Sparrow là tên của nhân vật trong trong phim Cướp biển vùng Caribe?",
+        "optionA": "Leonardo Dicarprio",
+        "optionB": "Tom Cruise",
+        "optionC": "Jonny Depp",
+        "optionD": "Tommy",
+        "answer": "Jonny Depp"
+    },
+
+    {
+        "question": "Ai là người giàu nhất Việt Nam tính đến thời điểm hiện tại?",
+        "optionA": "Phạm Nhật Vượng",
+        "optionB": "Đỗ Ngọc Hà",
+        "optionC": "Phạm Thuỳ Trang",
+        "optionD": "Không biết",
+        "answer": "Phạm Nhật Vượng"
+    },
+
+    {
+        "question": "Ba thương con vì con giống mẹ.mẹ thương con vì con giống...?",
+        "optionA": "Ông hàng xóm",
+        "optionB": "Chú cạnh nhà",
+        "optionC": "Thợ sửa ống nước",
+        "optionD": "Ba",
+        "answer": "Ba"
+    },
+
+    {
+        "question": "AFC Asian Cup 2011 được tổ chức tại quốc gia nào?",
+        "optionA": "Qatar",
+        "optionB": "hàn Quốc",
+        "optionC": "Nhật Bản",
+        "optionD": "Iraq",
+        "answer": "Iraq"
+    },
+
+    {
+        "question": "Đục nước béo...?",
+        "optionA": "Cò",
+        "optionB": "Kền kền",
+        "optionC": "Trâu",
+        "optionD": "Bò",
+        "answer": "Cò"
+    },
+
+    {
+        "question": "Sóng biển do cái gì tạo ra?",
+        "optionA": "Gió",
+        "optionB": "Mưa",
+        "optionC": "Nắng",
+        "optionD": "Sương mù",
+        "answer": "Gió"
+    },
+
+    {
+        "question": "Đâu là tên 1 loài hoa?",
+        "optionA": "Mai",
+        "optionB": "Hoét",
+        "optionC": "Cọc",
+        "optionD": "Chèo",
+        "answer": "Mai"
+    },
+
+    {
+        "question": "Kết quả của phép tính 2^5?",
+        "optionA": "128",
+        "optionB": "64",
+        "optionC": "32",
+        "optionD": "256",
+        "answer": "64"
+    },
+
+    {
+        "question": "Ai là người sáng tạo ra đèn điện?",
+        "optionA": "Tom Cruise",
+        "optionB": "Barack Obama",
+        "optionC": "Wole Soyinka",
+        "optionD": "Thomas Edison",
+        "answer": "Thomas Edison"
+    },
+
+    {
+        "question": "What are the first three words of the bible?",
+        "optionA": "be with everyone",
+        "optionB": "Again Jesus asked",
+        "optionC": "In the beginning",
+        "optionD": "At that time",
+        "answer": "In the beginning"
+    }
+]
